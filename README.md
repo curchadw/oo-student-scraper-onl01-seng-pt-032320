@@ -43,7 +43,7 @@ writing code to scrape. Just awful.
 Don't worry! We've very cleverly solved this problem for the purposes of this
 project. We've created a mock-up student site, [available here as a GitHub Page][]
 
-[available here as a GitHub Page]: https://learn-co-curriculum.github.io/student-scraper-test-page/
+[available here as a GitHub Page]: https://learn-co-curriculum.githubfccccc.io/student-scraper-test-page/
 
 This copy is being maintained only for the purposes of this project, so we don't
 have to worry about things like the styling changing or the code-breaking and
